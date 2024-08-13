@@ -47,3 +47,6 @@ Conexiones de Red: Asegúrate de que tu firewall o antivirus no esté bloqueando
 Uso Responsable: Utiliza esta herramienta de manera ética y legal. Solo escanea dispositivos y redes para los que tengas permiso.
 Soporte
 Si encuentras algún problema o tienes alguna duda sobre el uso de la aplicación, por favor contacta al desarrollador o abre un issue en el repositorio GitHub.
+
+![Imagen ejemplo](https://github.com/retroid0/Escaner_puertos/blob/main/puertos.png)
+
