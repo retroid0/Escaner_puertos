@@ -48,7 +48,7 @@ Responsible Use: Use this tool in an ethical and legal manner. Only scan devices
 Support
 If you encounter any problems or have any questions about using the app, please contact the developer or open an issue in the GitHub repository.
 
-![Image example](https://github.com/retroid0/Port_Scanner/blob/main/ports.png)
+![Image example](https://github.com/retroid0/Escaner_puertos/blob/main/puertos.png)
 
 ESPAÑOL:
 
